@@ -8,4 +8,4 @@ while (r<10):
  print(r)
 print(r)
 print("\nСколько раз сработал цикл? > - pr21.py:10")
-print(r)
+print(r , "я читаю рэп")
